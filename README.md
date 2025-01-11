@@ -13,7 +13,7 @@
 - [License](#license)
 
 ## Overview
-This project analyzes stock trends in the Indian cement sector over the last three months, focusing on identifying upward or downward trends in individual companies and the sector as a whole. Statistical methods, such as trend line analysis via linear regression, are applied, and visualizations are generated for clarity.
+This project analyzes stock trends in the Indian cement sector over the last six months, focusing on identifying upward or downward trends in individual companies and the sector as a whole. Statistical methods, such as trend line analysis via linear regression, are applied, and visualizations are generated for clarity.
 
 ## Cement Companies and Background
 The companies analyzed in this project are:
