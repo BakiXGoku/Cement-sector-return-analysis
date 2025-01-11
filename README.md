@@ -31,11 +31,11 @@ The companies analyzed in this project are:
 ## Significance of the Project
 The Indian cement sector has been under scrutiny recently due to muted earnings reports and forecasts of slowing growth. According to a **CRISIL report** published by [Business Standard](https://www.business-standard.com/industry/news/cement-industries-growth-to-slow-down-to-7-8-to-475-mt-in-fy25-crisil-124101400804_1.html), the cement sector's growth is expected to decelerate to **7-8% in FY25**, following strong double-digit growth in prior years. Additionally, Q2 results from major cement companies have been lackluster, with subdued earnings reported across the board.
 
-Despite these challenges, this project reveals an **upward overall trend in the sector** over the last three months, suggesting that investors may remain bullish on long-term prospects for the industry. This upward trend highlights a potential disconnect between short-term performance and long-term investor sentiment.
+Despite these challenges, this project reveals an **upward overall trend in the sector** over the last six months, suggesting that investors may remain bullish on long-term prospects for the industry. This upward trend highlights a potential disconnect between short-term performance and long-term investor sentiment.
 
 Key takeaways:
 1. While forecasts predict slower growth, the cement sector's upward trend may reflect confidence in recovery driven by infrastructure projects and economic stability.
-2. This analysis provides valuable insights for policymakers, analysts, and investors seeking to understand the current dynamics and future potential of the cement industry.
+2. This analysis provides valuable insights for policymakers, analysts, and investors seeking to understand the cement industry's current dynamics and future potential.
 
 ## Files and Folders
 ### Results/
